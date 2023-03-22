@@ -1,0 +1,6 @@
+{
+  "domain": "precioluz",
+  "name": "Precio de la Luz",
+  "version": "0.0.1",
+  "iot_class": "cloud_polling"
+}
